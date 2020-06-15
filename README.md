@@ -15,6 +15,7 @@ Citations used for Ramirez's OHBM Poster
       1. Ramirez, J. S. B. et al. Maternal Interleukin-6 Is Associated With Macaque Offspring Amygdala Development and Behavior. Cereb. Cortex (2019) doi:10.1093/cercor/bhz188.
 1. Cross-Species deformation: 
       1. Xu, T. et al. Cross-species Functional Alignment Reveals Evolutionary Hierarchy Within the Connectome. bioRxiv 692616 (2019) doi:10.1101/692616.
+1. Analysis Citation [4] Overview and Recent Advances in Partial Least Squares Roman Rosipal1 and Nicole Kr¨amer2 1 Austrian Research Institute for Artificial Intelligence, Freyung 6/6, A-1010 Vienna, Austria roman.rosipal@ofai.at 2 TU Berlin, Department of Computer Science and Electrical Engineering, Franklinstraße 28/29, D-10587 Berlin, Germany nkraemer@cs.tu-berlin.de
 1. Monkey Parcellation and Network Definitions: 
    1. Bezgin, G., Vakorin, V. A., van Opstal, A. J., McIntosh, A. R. & Bakker, R. Hundreds of brain maps in one atlas: Registering coordinate-independent primate neuro-anatomical data to a standard brain. Neuroimage 62, 67–76 (2012).
    1. Grayson, D. S. S. et al. The Rhesus Monkey Connectome Predicts Disrupted Functional Networks Resulting from Pharmacogenetic Inactivation of the Amygdala. Neuron 91, 453–466 (2016)
